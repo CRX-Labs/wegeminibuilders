@@ -2,7 +2,7 @@
 
 **The community website for Gemini Builders Community at United Institute of Technology, Prayagraj.**
 
-[Visit the community page](https://gcb-hub.netlify.app/)
+[Visit the community page](https://gbc-hub.netlify.app/)
 
 Gemini Builders Community (GBC) is a student-run AI-builder community at United Institute of Technology, Prayagraj, focused on learning by building with Gemini and other AI technologies. The page presents the community's mission and principles, highlights activities and member builds, and gives interested students a way to connect. The site also reflects the community's Google Student Ambassadors program context.
 
